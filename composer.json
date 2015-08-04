@@ -1,0 +1,12 @@
+{
+    "name": "adrzei/php-lib-blesta-api",
+    "description": "PHP Lib Blesta API",
+    "authors": [
+        {
+            "name": "Adrian Zeise",
+            "email": "mail@adrianz.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
