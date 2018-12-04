@@ -1,12 +1,9 @@
 {
     "name": "adrzei/php-lib-blesta-api",
-    "description": "PHP Lib Blesta API",
-    "authors": [
-        {
-            "name": "Adrian Zeise",
-            "email": "mail@adrianz.de"
-        }
-    ],
+    "description": "PHP Library Blesta API",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"Blesta\\": "src/"}
+    }
 }
