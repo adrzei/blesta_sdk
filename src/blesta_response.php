@@ -1,4 +1,7 @@
 <?php
+
+namespace Blesta;
+
 /**
  * Blesta API response handler
  *

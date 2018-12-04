@@ -2,8 +2,6 @@
 
 namespace Blesta;
 
-require_once dirname(__FILE__) . DIRECTORY_SEPARATOR . "blesta_response.php";
-
 /**
  * Blesta API processor
  *
