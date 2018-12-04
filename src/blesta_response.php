@@ -72,7 +72,7 @@ class BlestaResponse {
 			if (isset($response->errors))
 				return $response->errors;
 			else {
-				$error = new stdClass();
+				$error = new \stdClass();
 				$error->error = $response;
 				return $error;
 			}
